@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/mohseniaref/mohseniaref.github.io.git
+	branch = main
